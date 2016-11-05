@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan 1", "Latihan 1\Latihan 1.csproj", "{2675DE74-721F-42F2-9D4D-760860F59C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan 2", "Latihan 2\Latihan 2.csproj", "{EB11008F-CA8F-49C0-B9A1-256EA3E37A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan 3", "Latihan 3\Latihan 3.csproj", "{C639B86C-03CD-413C-9B6E-663AA10D2CB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2675DE74-721F-42F2-9D4D-760860F59C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2675DE74-721F-42F2-9D4D-760860F59C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2675DE74-721F-42F2-9D4D-760860F59C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2675DE74-721F-42F2-9D4D-760860F59C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB11008F-CA8F-49C0-B9A1-256EA3E37A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB11008F-CA8F-49C0-B9A1-256EA3E37A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB11008F-CA8F-49C0-B9A1-256EA3E37A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB11008F-CA8F-49C0-B9A1-256EA3E37A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C639B86C-03CD-413C-9B6E-663AA10D2CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C639B86C-03CD-413C-9B6E-663AA10D2CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C639B86C-03CD-413C-9B6E-663AA10D2CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C639B86C-03CD-413C-9B6E-663AA10D2CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

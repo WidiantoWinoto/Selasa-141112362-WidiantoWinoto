@@ -1,0 +1,30 @@
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.exe.config
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.exe
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.pdb
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.csprojResolveAssemblyReference.cache
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan_2.Form1.resources
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan_2.Properties.Resources.resources
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.csproj.GenerateResource.Cache
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.exe
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.pdb
+G:\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.exe.config
+G:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.exe
+G:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.csprojResolveAssemblyReference.cache
+G:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan_2.Form1.resources
+G:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan_2.Properties.Resources.resources
+G:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.csproj.GenerateResource.Cache
+G:\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.exe
+G:\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.pdb
+G:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.pdb
+J:\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.exe.config
+J:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.exe
+J:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.pdb
+J:\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.exe
+J:\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.pdb
+J:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.csprojResolveAssemblyReference.cache
+J:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan_2.Form1.resources
+J:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan_2.Properties.Resources.resources
+J:\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.csproj.GenerateResource.Cache
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\Latihan 2\bin\Debug\Latihan 2.exe.config
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.exe
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\Latihan 2\obj\Debug\Latihan 2.pdb

@@ -1,0 +1,9 @@
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\bin\Debug\Latihan 1.exe.config
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\obj\Debug\Latihan 1.csprojResolveAssemblyReference.cache
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\obj\Debug\Latihan_1.Form1.resources
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\obj\Debug\Latihan_1.Properties.Resources.resources
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\obj\Debug\Latihan 1.csproj.GenerateResource.Cache
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\bin\Debug\Latihan 1.exe
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\bin\Debug\Latihan 1.pdb
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\obj\Debug\Latihan 1.exe
+C:\Users\imelda damayanti\Desktop\widianto doc\Semester 5\framework\Selasa_141112362_Widianto W\Latihan 1\obj\Debug\Latihan 1.pdb
