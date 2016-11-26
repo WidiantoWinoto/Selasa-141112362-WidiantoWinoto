@@ -1,0 +1,11 @@
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe.config
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.pdb
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Form1.resources
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Properties.Resources.resources
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.csproj.GenerateResource.Cache
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.exe
+C:\Users\imelda damayanti\Desktop\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.pdb
+D:\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe.config
+D:\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.exe
+D:\Selasa-141112362-WidiantoWinoto\Selasa_141112362_Widianto W\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.pdb
